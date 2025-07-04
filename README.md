@@ -4,7 +4,7 @@ A responsive CV website built using HTML and CSS.
 
 ## 🚀 Live Demo
 
-👉 [)
+👉 [Click here for demo (https://responsive-cv-420px-git-main-mr-ykd.vercel.app)]
 
 ## 📂 Features
 
